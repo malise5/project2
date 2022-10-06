@@ -33,11 +33,11 @@ function Meal() {
   return (
     <div className='main'>
         <div className="heading">
-            <h1>Search Your Recipe</h1>
-            <h4> sjdbcnd cdbnkdvnd d </h4>
+            <h1>Dancing Spoon</h1>
+            <h4> "You don't need a silver fork to eat good food."</h4>
         </div>
         <div className="searchBox">
-            <input type="search" className='search-bar' onChange={(e) => setSearch(e.target.value)} onKeyPress={searchRecipe} />
+            <input type="search" placeholder='Search Your recipe...' className='search-bar' onChange={(e) => setSearch(e.target.value)} onKeyPress={searchRecipe} />
         </div>
         <div className="container">
                 {

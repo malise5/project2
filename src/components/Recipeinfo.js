@@ -26,12 +26,13 @@ if(MealId!==""){
         (!item) ?"": (
         <>
             <div className="content">
+            <div className="inner-container">
+                <h1>{item.strMeal}</h1>
+                <h2>{item.strArea} Food</h2>
+                <h3>{item.strCategory}</h3>
+            </div>
                 <img src={item.strMealThumb} alt="" />
-                <div className="inner-container">
-                    <h1>{item.strMeal}</h1>
-                    <h2>{item.strArea} Food</h2>
-                    <h3>{item.strCategory}</h3>
-                </div>
+                
             </div>
             <div className="recipe-details">
                 <div className="ingredients">
