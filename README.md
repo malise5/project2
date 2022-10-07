@@ -1,7 +1,49 @@
+
+# Project_Title : Recipe APP (Dancing Spoon)
+
+
 # Author : Halkano Malise Tadicha
 Project Link: [Firebase Hosting](https://dancing-spoon-recipe.web.app)
 
+
+
+
+##  Project Description
+
 The project is about Recipe that Fetches API from the [https://www.themealdb.com].
+### Technologies used are 
+```
+React js
+css
+jsx
+npm packages
+firebase
+```
+
+# Fock by:
+
+Clone the repo
+```
+git clone https://git@github.com:malise5/project2.git
+```
+
+Install NPM packages
+```
+npm install
+```
+For the project to build, **these files must exist with exact filenames**:
+
+* `public/index.html` is the page template;
+* `src/index.js` is the JavaScript entry point.
+You can delete or rename the other files.
+
+Prerequisites
+This is an example of how to list things you need to use the software and how to install them.
+npm
+```
+npm install npm@latest -g
+```
+
 
 # REACTJS
 
@@ -38,31 +80,6 @@ Please make sure to update tests as appropriate.
 
 
 
-Built and deployed/hosted With :
-React js
-firebase
-
-Clone the repo
-```
-git clone https://git@github.com:malise5/project2.git
-```
-
-Install NPM packages
-```
-npm install
-```
-For the project to build, **these files must exist with exact filenames**:
-
-* `public/index.html` is the page template;
-* `src/index.js` is the JavaScript entry point.
-You can delete or rename the other files.
-
-Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
-npm
-```
-npm install npm@latest -g
-```
 
 
 # Getting Started with Create React App
