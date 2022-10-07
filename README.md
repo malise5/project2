@@ -3,7 +3,7 @@
 
 
 # Author : Halkano Malise Tadicha
-Project Link: [Firebase Hosting](https://dancing-spoon-recipe.web.app)
+Project Link: [Recipe App Hosted By Firebase](https://dancing-spoon-recipe.web.app)
 
 
 
