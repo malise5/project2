@@ -1,6 +1,73 @@
+# Author : Halkano Malise Tadicha
+Project Link: [Firebase Hosting](https://dancing-spoon-recipe.web.app)
+
+The project is about Recipe that Fetches API from the [https://www.themealdb.com].
+
+# REACTJS
+
+The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.
+
+## Installation
+
+Install NodeJS and NPM.
+NodeJS and NPM are the platforms need to develop any ReactJS applicationr.
+
+the below command will install the react and create a new project with the name jtp-reactapp
+
+```bash
+npx create-react-app jtp-reactapp   
+```
+
+Running the Server
+
+After completing the installation process, you can start the server by running the following command.
+
+```bash
+javatpoint@root:~/Desktop>cd jtp-reactapp  
+javatpoint@root:~/Desktop/jtp-reactapp>npm start   
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
+
+
+
+
+
+Built and deployed/hosted With :
+React js
+firebase
+
+Clone the repo
+```
+git clone https://git@github.com:malise5/project2.git
+```
+
+Install NPM packages
+```
+npm install
+```
+For the project to build, **these files must exist with exact filenames**:
+
+* `public/index.html` is the page template;
+* `src/index.js` is the JavaScript entry point.
+You can delete or rename the other files.
+
+Prerequisites
+This is an example of how to list things you need to use the software and how to install them.
+npm
+```
+npm install npm@latest -g
+```
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) 
 
 ## Available Scripts
 
